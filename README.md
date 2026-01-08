@@ -8,6 +8,22 @@ The system delivers accurate tracking, meaningful analytics, and a user-friendly
 </p>
 
 <br>
+<br>
+
+<h2 align="center">Live Demo</h2>
+
+<p align="center">
+  <img src="assets/output%20(4).gif" alt="Real-Time Object Detection Demo" width="90%">
+</p>
+
+
+<p align="center">
+  <sub>
+    Real-time object detection, multi-object tracking, and visitor analytics using YOLOv8 + SORT.
+  </sub>
+</p>
+
+<br>
 
 <p align="center">
   
